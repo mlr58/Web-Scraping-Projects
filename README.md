@@ -1,4 +1,4 @@
-This projects serves as a challenge for me and a demonstration of my current abilities with HTML web scraping, as well as data management with sqlite and pandas' DataFrames.
+This projects is as a demonstration of my current abilities with HTML web scraping, as well as data management with sqlite and pandas' DataFrames.
 
 The purpose of the project is to obtain all the data regarding subjects from a master and what professors are involved.
 
